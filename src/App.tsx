@@ -13,7 +13,7 @@ function App() {
       <CanvasComponent />
 
       <div className="header-major">
-        <span className="header-options">Virtual Wall</span>
+        <span className="header-options">Virtual Wall City</span>
 
         <span className="header-options">
           {" "}
